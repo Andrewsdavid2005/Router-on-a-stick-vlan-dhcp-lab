@@ -1,10 +1,10 @@
-# 🚀 Router-on-a-Stick VLAN & DHCP Lab
+# Router-on-a-Stick VLAN & DHCP Lab
 
 A hands-on Cisco Packet Tracer project demonstrating **VLAN segmentation, 802.1Q trunking, Router-on-a-Stick inter-VLAN routing, DHCP configuration, and basic network troubleshooting**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a small enterprise network with two departments:
 
@@ -17,7 +17,7 @@ The project also includes basic troubleshooting scenarios to understand how netw
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are:
 
@@ -35,7 +35,7 @@ The main objectives of this project are:
 
 ---
 
-## 🏗️ Network Topology
+## Network Topology
 
 ```text
                     ┌──────────────┐
